@@ -10,3 +10,72 @@ body{
 	border-radius: 10px;
 	box-shadow: 0px 7px 104px 0px rgba(227, 206, 173, 0.74);
 }
+.nav-all{
+	color: #000;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+padding: 7px 28px 8px 22px;
+background-color: #FEF8EB;
+border-radius: 6px;
+margin: 90px 17px 90px 360px;
+}
+.nav-photo{
+	color: #747069;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+}
+.nav-fash{
+	color: #747069;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+padding-left: 45px;
+}
+.nav-sculp{
+	color: #747069;
+
+text-align: center;
+font-family: Mulish;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+display: inline-block;
+padding-left: 45px;
+}
+.image-left{
+	display: inline-block;
+	margin:1px 25px 299px 113px;
+	border-style: solid;
+}
+.image-middle{
+	display: inline-block;
+	margin: 0px 25px 299px;
+}
+.image-right{
+	display: inline-block;
+	margin: 9px 11px 299px 25px;
+}
+.images{
+	display: inline-block;
+}
+.images-margine1, .images-margine2, .images-margine3{
+	display: inline-block;
+}
